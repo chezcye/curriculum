@@ -19,7 +19,9 @@ setupCode:
 ---
 
 # Weekend & Weekday Switch
-
+```javascript
+console.log(test);
+```
 ---
 
 ## Content
